@@ -32,6 +32,3 @@ Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto e
 
 ---
 
-### ¡Empieza hoy y mejora tus habilidades en SQL y Excel!
-
-Utiliza estos recursos y sigue practicando para fortalecer tus conocimientos en bases de datos y hojas de cálculo. La práctica constante es clave para dominar estas herramientas esenciales en el mundo profesional.
