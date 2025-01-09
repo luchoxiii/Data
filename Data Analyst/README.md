@@ -17,6 +17,9 @@ Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto e
 - [DataLemur](https://datalemur.com/): Recurso para aprender SQL a través de ejercicios prácticos.
 - [SQL Island](https://sql-island.informatik.uni-kl.de/): Un juego interactivo para aprender SQL mientras resuelves retos.
 - [SQL Police Apartment](https://sqlpd.com/): Plataforma que utiliza la gamificación para enseñar SQL de una manera divertida y efectiva.
+- [SQL interactivo](https://sqlinteractivo.desafiolatam.com/)
+- [Cheatset](https://docs.z2h.site/blog/sql-cheat-sheet/)
+
 
 ---
 
@@ -24,7 +27,7 @@ Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto e
 
 ### **Canales de YouTube:**
 
-
+- [Excel hecho Facil](https://www.youtube.com/@ExcelHechoFacil/videos)
 
 ### **Páginas web:**
 
